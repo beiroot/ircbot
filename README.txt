@@ -1,0 +1,2 @@
+A very simple irc bot that joins a channel and waits if it's the last one standing, then rejoins the channel to get +o.
+I wrote it for a friendly takeover of our channel that had people, but no @ amongst them.
